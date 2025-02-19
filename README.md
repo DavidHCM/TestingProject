@@ -1,4 +1,4 @@
-# TestigProyect
+# TestingProyect
 
 Github repository to be as practice during the course that would help with the project.
 
