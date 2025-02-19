@@ -35,5 +35,5 @@ commits.forEach((commit) => {
 });
 
 if (!danger.github.commits.some((commit) => commit.errors)) {
-  message("LGTM");
+  message("LGTM!");
 }
