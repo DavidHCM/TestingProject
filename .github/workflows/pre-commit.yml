@@ -4,7 +4,7 @@ on:
   pull_request:
   push:
     branches:
-      - main  # Adjust if needed
+      - main
 
 jobs:
   pre-commit:
