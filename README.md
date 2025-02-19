@@ -41,3 +41,5 @@ Breaking changes must be indicated by adding ! after the type or by including BR
 This repository uses the [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits) GitHub Action to enforce Conventional Commits.
 
 A GitHub Action workflow is set up in .github/workflows/conventional-commits.yml to verify that all commit messages adhere to the Conventional Commits specification. Any commits that do not follow the specification will fail the workflow and must be corrected before merging.
+
+### Testing
