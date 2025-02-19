@@ -1,4 +1,4 @@
-import { danger, fail, warn, message } from "danger";
+import { danger, fail, message } from "danger";
 
 const commits = danger.github.commits;
 
